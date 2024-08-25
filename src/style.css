@@ -1,0 +1,15 @@
+.hide-content>img {
+    display: none;
+}
+
+.matched {
+    background-color: green;
+}
+
+.freeze-box {
+    pointer-events: none;
+}
+
+.win {
+    background-repeat: no-repeat;
+}
